@@ -1,0 +1,3 @@
+[submodule "lib/JConvo-commons"]
+	path = lib/JConvo-commons
+	url = git@github.com:JConvo/JConvo-commons.git
